@@ -1,8 +1,8 @@
 # Site Settings
 locale                   : "en-US"
-title                    : "Harry_KIT"
+title                    : "G'ayrat Tangriberganov"
 title_separator          : "-"
-name                     : &name "Gayrat Tangriberganov"
+name                     : &name "G'ayrat Tangriberganov"
 description              : &description "Research Scientist, Konyang HealthCare Data Science Center"
 url                      : https://harry-kit.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -73,7 +73,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Gayrat Tangriberganov"
+  name             : "G'ayrat Tangriberganov"
   avatar           : "my_photo.jpg"
   bio              : "Researcher"
   location         : "South Korea, Daejeon"
@@ -101,10 +101,10 @@ author:
   orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    :  18200639/harry-kit
+  stackoverflow    :  #18200639/harry-kit
   steam            :
   tumblr           :
-  twitter          : "@AiDevveloper"
+  twitter          : #"@AiDevveloper"
   vine             :
   weibo            :
   xing             :
